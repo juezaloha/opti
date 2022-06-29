@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCB2A50BEbe8e118c260867A813e5ed3752b12F29",
+  "SCAN_LINK": "https://optimistic.etherscan.io/address/0xCB2A50BEbe8e118c260867A813e5ed3752b12F29",
+  "NETWORK": {
+    "NAME": "Optimism",
+    "SYMBOL": "ETH",
+    "ID": 10
+  },
+  "NFT_NAME": "OptiKitties",
+  "SYMBOL": "OKT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Quixotic",
+  "MARKETPLACE_LINK": "https://quixotic.io/collection/optikitties",
+  "SHOW_BACKGROUND": true
+}
